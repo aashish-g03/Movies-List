@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908600824873",
+    "project_id": "movie-list1",
+    "storage_bucket": "movie-list1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908600824873:android:e1b98f062a669fe32af838",
+        "android_client_info": {
+          "package_name": "com.aashish.zupay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908600824873-apbe4a6cic4dudsm875087g03js0vl93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpIuZI-ANfjGh1rUhBRYBQfFaZqm9MiSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908600824873-apbe4a6cic4dudsm875087g03js0vl93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
